@@ -59,7 +59,7 @@ def predict_for_patient(input_dict):
     }
 
 # --- Simulation ---
-def simulate_time_sweep(base_patient_data, time_range=np.arange(8, 24, 1)):
+def simulate_time_sweep(base_patient_data, time_range=np.arange(8, 2400, 1)):
     predictions = []
     times = []
 
