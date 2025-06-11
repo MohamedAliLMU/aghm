@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+xgboost
+PyPDF2
+ipython
+openpyxl
+joblib
